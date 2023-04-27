@@ -1,0 +1,298 @@
+﻿DATAFLOW,MEASURE: Measure,AGE: Age,SEX: Sex,REGION: Region,FREQ: Frequency,TIME_PERIOD: Time Period,OBS_VALUE,UNIT_MEASURE: Unit of Measure,OBS_STATUS: Observation Status,OBS_COMMENT: Observation Comment,REPYEAREND: Reporting Year End Day
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2012,227310,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2013,235610,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2014,231230,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2015,232270,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2016,245980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2017,269420,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2018,260310,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2019,273080,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2020,258130,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2021,71580,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,AUS: Australia,A: Annual,2022,196060,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2012,42380,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2013,38630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2014,30610,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2015,26910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2016,25700,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2017,24110,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2018,21920,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2019,24120,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2020,24710,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2021,6700,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,5: Western Australia,A: Annual,2022,15750,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2012,11390,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2013,11180,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2014,11910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2015,11710,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2016,12020,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2017,12140,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2018,12100,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2019,13290,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2020,14000,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2021,2790,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,4: South Australia,A: Annual,2022,10420,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2012,70500,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2013,76630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2014,77500,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2015,80410,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2016,84980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2017,99660,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2018,97910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2019,97940,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2020,84630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2021,35350,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,1: New South Wales,A: Annual,2022,74410,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2012,3780,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2013,3920,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2014,4190,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2015,4210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2016,4210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2017,4700,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2018,5110,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2019,5880,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2020,6510,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2021,1610,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,6: Tasmania,A: Annual,2022,5150,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2012,4680,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2013,4350,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2014,4490,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2015,4800,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2016,4750,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2017,5210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2018,5640,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2019,5030,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2020,4960,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2021,1430,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,8: Australian Capital Territory,A: Annual,2022,4250,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2012,112280,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2013,119250,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2014,122250,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2015,128170,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2016,140220,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2017,159630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2018,161170,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2019,168310,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2020,150640,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2021,27140,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,2: Victoria,A: Annual,2022,120480,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2012,140860,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2013,152630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2014,155530,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2015,160910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2016,170890,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2017,198300,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2018,191450,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2019,194270,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2020,172430,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2021,70530,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,1: New South Wales,A: Annual,2022,145820,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2012,70360,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2013,76010,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2014,78040,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2015,80500,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2016,85910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2017,98640,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2018,93540,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2019,96330,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2020,87800,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2021,35170,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,1: New South Wales,A: Annual,2022,71410,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2012,11590,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2013,11400,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2014,11710,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2015,11570,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2016,11390,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2017,11680,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2018,12010,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2019,13360,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2020,13740,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2021,3230,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,4: South Australia,A: Annual,2022,10510,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2012,240020,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2013,246480,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2014,233450,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2015,232980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2016,243300,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2017,270730,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2018,267220,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2019,277320,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2020,248730,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2021,74420,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,AUS: Australia,A: Annual,2022,198910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2012,6750,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2013,7840,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2014,6260,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2015,6900,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2016,6370,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2017,6900,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2018,5020,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2019,5550,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2020,4120,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2021,1450,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,7: Northern Territory,A: Annual,2022,4910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2012,22980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2013,22580,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2014,23620,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2015,23280,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2016,23410,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2017,23820,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2018,24100,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2019,26650,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2020,27740,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2021,6020,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,4: South Australia,A: Annual,2022,20940,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2012,56300,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2013,59990,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2014,60620,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2015,63710,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2016,69560,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2017,80340,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2018,82550,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2019,85480,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2020,73650,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2021,13380,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,2: Victoria,A: Annual,2022,59390,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2012,77980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2013,74380,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2014,60030,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2015,53290,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2016,51540,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2017,48640,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2018,44190,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2019,48080,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2020,50400,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2021,12970,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,5: Western Australia,A: Annual,2022,30560,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2012,48700,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2013,48710,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2014,43070,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2015,39340,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2016,41210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2017,43300,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2018,42230,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2019,45450,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2020,42180,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2021,12510,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,3: Queensland,A: Annual,2022,29160,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2012,55980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2013,59260,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2014,61630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2015,64460,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2016,70660,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2017,79290,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2018,78610,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2019,82840,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2020,76990,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2021,13760,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,2: Victoria,A: Annual,2022,61090,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2012,9490,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2013,8690,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2014,8990,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2015,9520,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2016,9470,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2017,10330,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2018,10970,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2019,9950,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2020,9380,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2021,2810,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,8: Australian Capital Territory,A: Annual,2022,8450,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2012,3810,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2013,4780,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2014,3430,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2015,4230,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2016,3680,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2017,4220,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2018,2760,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2019,3070,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2020,2080,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2021,890,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,7: Northern Territory,A: Annual,2022,2690,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2012,93210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2013,92800,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2014,83800,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2015,78980,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2016,83170,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2017,87820,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2018,85440,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2019,91660,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2020,85590,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2021,23440,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,3: Queensland,A: Annual,2022,58580,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2012,44510,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2013,44090,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2014,40730,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2015,39630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2016,41960,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2017,44520,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2018,43210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2019,46210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2020,43410,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2021,10930,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,3: Queensland,A: Annual,2022,29430,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2012,1920,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2013,1990,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2014,2020,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2015,2080,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2016,2050,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2017,2300,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2018,2470,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2019,2960,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2020,3300,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2021,950,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,6: Tasmania,A: Annual,2022,2770,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2012,4810,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2013,4340,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2014,4490,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2015,4720,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2016,4720,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2017,5120,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2018,5330,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2019,4910,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2020,4420,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2021,1380,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,1: Males,8: Australian Capital Territory,A: Annual,2022,4200,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2012,467330,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2013,482090,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2014,464680,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2015,465250,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2016,489280,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2017,540150,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2018,527520,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2019,550400,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2020,506850,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2021,146000,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,3: Persons,AUS: Australia,A: Annual,2022,394970,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2012,35600,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2013,35750,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2014,29420,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2015,26380,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2016,25840,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2017,24530,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2018,22270,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2019,23960,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2020,25690,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2021,6260,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,5: Western Australia,A: Annual,2022,14810,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2012,2940,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2013,3060,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2014,2830,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2015,2670,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2016,2690,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2017,2690,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2018,2270,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2019,2490,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2020,2040,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2021,570,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,7: Northern Territory,A: Annual,2022,2220,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2012,1860,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2013,1930,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2014,2170,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2015,2120,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2016,2160,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2017,2410,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2018,2630,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2019,2920,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2020,3210,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2021,660,NUM: Number,,,30-6: Year Ending 30 June
+ABS:NOM_FY(1.0.0),1: NOM arrivals,TOT: All ages,2: Females,6: Tasmania,A: Annual,2022,2390,NUM: Number,,,30-6: Year Ending 30 June
