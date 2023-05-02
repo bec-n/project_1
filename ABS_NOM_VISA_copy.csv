@@ -1,0 +1,105 @@
+﻿MEASURE: Type of Visa,(Multiple Items)
+,
+Row Labels,Sum of OBS_VALUE
+2012,467420
+1: New South Wales,140890
+2: Victoria,112280
+3: Queensland,93230
+4: South Australia,22990
+5: Western Australia,77970
+6: Tasmania,3790
+7: Northern Territory,6750
+8: Australian Capital Territory,9520
+2013,482180
+1: New South Wales,152650
+2: Victoria,119260
+3: Queensland,92800
+4: South Australia,22590
+5: Western Australia,74390
+6: Tasmania,3920
+7: Northern Territory,7860
+8: Australian Capital Territory,8710
+2014,464750
+1: New South Wales,155540
+2: Victoria,122270
+3: Queensland,83810
+4: South Australia,23620
+5: Western Australia,60040
+6: Tasmania,4200
+7: Northern Territory,6280
+8: Australian Capital Territory,8990
+2015,465280
+1: New South Wales,160920
+2: Victoria,128180
+3: Queensland,78980
+4: South Australia,23280
+5: Western Australia,53290
+6: Tasmania,4210
+7: Northern Territory,6890
+8: Australian Capital Territory,9530
+2016,489310
+1: New South Wales,170890
+2: Victoria,140220
+3: Queensland,83180
+4: South Australia,23400
+5: Western Australia,51550
+6: Tasmania,4230
+7: Northern Territory,6370
+8: Australian Capital Territory,9470
+2017,540210
+1: New South Wales,198310
+2: Victoria,159630
+3: Queensland,87830
+4: South Australia,23820
+5: Western Australia,48650
+6: Tasmania,4720
+7: Northern Territory,6900
+8: Australian Capital Territory,10350
+2018,527500
+1: New South Wales,191440
+2: Victoria,161170
+3: Queensland,85450
+4: South Australia,24100
+5: Western Australia,44200
+6: Tasmania,5110
+7: Northern Territory,5030
+8: Australian Capital Territory,11000
+2019,550420
+1: New South Wales,194290
+2: Victoria,168310
+3: Queensland,91670
+4: South Australia,26640
+5: Western Australia,48090
+6: Tasmania,5900
+7: Northern Territory,5560
+8: Australian Capital Territory,9960
+2020,506860
+1: New South Wales,172420
+2: Victoria,150650
+3: Queensland,85590
+4: South Australia,27720
+5: Western Australia,50420
+6: Tasmania,6530
+7: Northern Territory,4150
+8: Australian Capital Territory,9380
+2021,146050
+1: New South Wales,70520
+2: Victoria,27150
+3: Queensland,23470
+4: South Australia,6020
+5: Western Australia,12980
+6: Tasmania,1620
+7: Northern Territory,1470
+8: Australian Capital Territory,2820
+2022,394900
+1: New South Wales,145820
+2: Victoria,120470
+3: Queensland,58560
+4: South Australia,20930
+5: Western Australia,30560
+6: Tasmania,5180
+7: Northern Territory,4930
+8: Australian Capital Territory,8450
+(blank),
+(blank),
+Grand Total,5034880
