@@ -30,6 +30,25 @@ With travel restrictions easing from FY2021 onwards total arrivals increased by 
 
 ![image](https://user-images.githubusercontent.com/126390405/236679387-0243d42a-e47d-4383-9e6a-a7494d923bc8.png)
 
+The line graph below shows the total migration arrivals by state and year. In summary the state / location arrivals are most commonly moving to in Australia appear to be consistent throughout the years, with New South Wales, Victoria and Queensland being the top 3 states for migrant arrivals from 2005 until 2022. 
+Similar to the ‘Total Arrivals to Australia’ graph, there was a significant decrease of arrivals to all states in FY2021 due to the travel restrictions imposed during COVID. 
+
+![image](https://user-images.githubusercontent.com/126390405/236680268-86a694f9-4edc-4d6b-9b9a-c2fe31c93a9f.png)
+
+The heat map below shows a different visualisation of the total migrant arrivals per year, which are consistent with the graph above. 
+
+![image](https://user-images.githubusercontent.com/126390405/236680286-64341c10-78ea-4805-87bf-2d698b552172.png)
+
+Next, the pie charts below show if there has been any variation on the percentage of arrivals by location pre (FY2020), during (FY2021) and post (FY2022) COVID per state.  
+
+![image](https://user-images.githubusercontent.com/126390405/236680542-36f72b33-f6ca-47a2-b8ff-aa4da7ff355c.png)
+
+![image](https://user-images.githubusercontent.com/126390405/236680545-28d1ce07-2e94-4e90-b782-49cf07b91e86.png)
+
+
+
+![image](https://user-images.githubusercontent.com/126390405/236680552-9eecd626-5284-4a23-a3f6-05b9fa4e8f76.png)
+
 
 Data_Analysis -Anuja
 
