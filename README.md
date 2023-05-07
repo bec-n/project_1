@@ -41,13 +41,16 @@ The heat map below shows a different visualisation of the total migrant arrivals
 
 Next, the pie charts below show if there has been any variation on the percentage of arrivals by location pre (FY2020), during (FY2021) and post (FY2022) COVID per state.  
 
-![image](https://user-images.githubusercontent.com/126390405/236680542-36f72b33-f6ca-47a2-b8ff-aa4da7ff355c.png)
+![image](https://user-images.githubusercontent.com/126390405/236680605-6e31af47-815e-4cc6-ae43-efcf24e7c060.png)
 
 ![image](https://user-images.githubusercontent.com/126390405/236680545-28d1ce07-2e94-4e90-b782-49cf07b91e86.png)
 
 
 
 ![image](https://user-images.githubusercontent.com/126390405/236680552-9eecd626-5284-4a23-a3f6-05b9fa4e8f76.png)
+
+
+![bokeh_plot](https://user-images.githubusercontent.com/126390405/236680614-9f730968-6c1a-43a8-b7f9-b783effea4f1.png)
 
 
 Data_Analysis -Anuja
