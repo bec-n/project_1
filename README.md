@@ -85,3 +85,20 @@ Change in ‘Male-Female Ratio’ entering each state per age category
 ![image](https://user-images.githubusercontent.com/126873540/236676637-168cdce9-9fab-4a8b-ad9c-590aaecc211d.png)
 
 Here positive change indicates ‘Number of Male arrivals’ has increased for the specific category while the negative change indicates ‘Number of Female arrivals’ has increased for the specific category.
+
+
+
+
+
+
+DATA SOURCE
+
+The data has been sourced from the Australia Bureau of Statistics (ABS) using the link: https://www.abs.gov.au/statistics/people/population/overseas-migration/2021-22-financial-year#key-statistics 
+The data has been collected based on a financial year. 
+
+Information on COVID travel restrictions were sourced using these links: https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/rp/rp2021/Chronologies/COVID-19StateTerritoryGovernmentAnnouncements. [Table 3: initial border restriction announcement by state and territory governments]. 
+
+https://www.health.gov.au/health-alerts/covid-19/international-travel 
+
+ABC news article on migration: https://www.abc.net.au/news/2023-04-29/australian-migrant-population-growth-hits-all-time-record-high/102281798 
+
