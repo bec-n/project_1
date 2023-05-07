@@ -1,8 +1,31 @@
 # project_1
-Project 1 
+Project 1 Analysis 
+
+PROJECT TITLE
+Impact of COVID on Overseas Migration to Australia 
+
+TEAM MEMBERS
+Bec, Anuja & Luz 
+
+RESEARCH QUESTION
+How has COVID affected migration arrivals to Australia overall pre and post 2020, and specifically for the following factors:
+1.	State / Location;
+2.	Gender;
+3.	Age; 
+4.	Purpose (visa status); and 
+5.	Work Hours. 
 
 
-![image](https://user-images.githubusercontent.com/126390405/236201459-5a87890f-063e-4689-b029-26db74496867.png)
+ANALYSIS SUMMARY
+
+Data Analysis - Bec Project1
+The graph below shows the total migration arrivals to Australia on a financial year basis.  
+The COVID pandemic had a significant impact on travel and migration to Australia. In response to the pandemic the Australian government imposed travel restrictions in approximately late March 2020, which were gradually eased until no restrictions were in place by March 2023. 
+The graph below shows the total number of migrant arrivals in Australia was the lowest in FY2021 since FY2005. This was the year with the most severe travel restrictions, totalling a -71.2% decrease in total migrant arrivals from the previous year. 
+With travel restrictions easing from FY2021 onwards total arrivals increased by 170.4% in FY2022 compared to the previous year. Despite the increase the total number of migrant arrivals was still lower than in FY2020 being the year prior to the COVID pandemic. 
+
+![image](https://user-images.githubusercontent.com/126390405/236679387-0243d42a-e47d-4383-9e6a-a7494d923bc8.png)
+
 
 Data_Analysis -Anuja
 
