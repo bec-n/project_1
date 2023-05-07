@@ -1,15 +1,15 @@
 # project_1
-Project 1 Analysis 
+ 
 
-PROJECT TITLE
+**PROJECT TITLE**
 
 Impact of COVID on Overseas Migration to Australia 
 
-TEAM MEMBERS
+**TEAM MEMBERS**
 
 Bec, Anuja & Luz 
 
-RESEARCH QUESTION
+**RESEARCH QUESTION**
 
 How has COVID affected migration arrivals to Australia overall pre and post 2020, and specifically for the following factors:
 1.	State / Location;
@@ -19,9 +19,9 @@ How has COVID affected migration arrivals to Australia overall pre and post 2020
 5.	Work Hours. 
 
 
-ANALYSIS SUMMARY
+**ANALYSIS SUMMARY**
 
-Data Analysis - Bec Project1
+**Data Analysis - Code: Project1.ipynb**
 
 The graph below shows the total migration arrivals to Australia on a financial year basis.  
 The COVID pandemic had a significant impact on travel and migration to Australia. In response to the pandemic the Australian government imposed travel restrictions in approximately late March 2020, which were gradually eased until no restrictions were in place by March 2023. 
@@ -53,7 +53,7 @@ Next, the pie charts below show if there has been any variation on the percentag
 ![bokeh_plot](https://user-images.githubusercontent.com/126390405/236680614-9f730968-6c1a-43a8-b7f9-b783effea4f1.png)
 
 
-Data_Analysis -Anuja
+**Data_Analysis - Code: project1 - Submission.ipynb**
 
 Statistical Analysis:
 We performed independent Ttest to confirm the number of arrivals has been affected by covid.
@@ -108,15 +108,67 @@ Change in ‘Male-Female Ratio’ entering each state per age category
 
 Here positive change indicates ‘Number of Male arrivals’ has increased for the specific category while the negative change indicates ‘Number of Female arrivals’ has increased for the specific category.
 
+**Data Analysis Code: visa.ipynb**
+
+**Types of Visa**
+![image](https://user-images.githubusercontent.com/125717794/236707622-3acee36d-ebbd-4cfa-8e6a-56587158aca3.png)
+
+This graph shows the drop in the Total Migrant Arrivals with Visas to Australia during the pandemic year 2021. It can be noticed that only a few visas were granted during this period, and only Australian citizen arrivals were above 60000 people.
+
+ ![image](https://user-images.githubusercontent.com/125717794/236707627-3290c124-c10d-4dcf-a866-a01e31f7259a.png)
+
+On the other hand, the heatmap above shows that Temporary Visas for the Higher Education Sector are the category with more visas granted before and after covid. Also, it can be concluded that the Temporary type Visa – Visitor has not returned to the same approved visa quantity that it had before covid.
+
+**Total Hours Worked over years**
+![image](https://user-images.githubusercontent.com/125717794/236707638-81556ad1-8792-4334-9267-5a665820cd8e.png)
+
+The above graph shows that during the pandemic period, the total hours worked decreased as expected. During this time, many jobs were ended, mainly in the hospitality sector, for instance.
+
+At this point of the investigation, it is interesting to examine if there is any relationship between specific types of visas and the total number of hours worked in Australia in that same period. To find these relationships, it was calculated the correlation coefficients and the results are as follows:
+
+**Correlation**
+ ![image](https://user-images.githubusercontent.com/125717794/236707655-7df50832-235c-4bcf-8391-328977ba90bb.png)
+
+If we focus our attention only on examining how the Visas Categories are correlated with the Total hours worked, we can find that there is a strong positive correlation between Permanent Visas and Hours worked. In contrast, the correlation between the Permanent Visa Skill and Hours Worked seems moderately negative.
+
+**Linear Regression Permanent Visa - Skill vs. Total Hours Worked per Year**
+![image](https://user-images.githubusercontent.com/125717794/236707677-04ba1c6e-6459-4bcd-80d3-8b6cc1da14ea.png)
+
+The r-squared is: 0.7147064639603282
+The correlation between both variables is 0.85.
+
+
+This strong positive correlation shows that migrants with permanent visas significantly influence the Australian labour force. In this case, it shows that the arrivals with permanent visas are working part-time jobs.
+
+![image](https://user-images.githubusercontent.com/125717794/236707684-24a658c9-9f41-4f63-9981-54ffaac995c7.png)
+
+The r-squared is: 0.6695475831917412
+The correlation between both variables is 0.82.
+
+As mentioned earlier, this is another positive correlation that shows that migrants with permanent visas significantly influence the Australian labour force. In this case, it shows that the arrivals with permanent visas are contributing to the Total Hours Worked in the Country.
+
+**Linear Regression Permanent Visa - Skill vs. Total Hours Worked per Year**
+![image](https://user-images.githubusercontent.com/125717794/236707707-b7e2de0f-d29f-4e8b-bc95-6fe7c2bbf8bd.png)
+
+The r-squared is: 0.2606771283638466
+The correlation between both variables is -0.51.
+
+ ![image](https://user-images.githubusercontent.com/125717794/236707717-9d1dd709-cb01-46b2-8c4d-5e22e046e6d1.png)
+
+The r-squared is: 0.27715381701514324
+The correlation between both variables is -0.53.
+
+The two graphs above show a moderate negative relationship between Migrant Arrivals with Permanent visas – Skills, and the Total Hours Worked. This result would indicate that with more migrants with skilled visas, the total hours worked decreases. One of the insights we could get from here is that with a more specialised labour force, the work can be done more efficiently and in fewer hours.
 
 
 
 
+**DATA SOURCE**
 
-DATA SOURCE
-
-The data has been sourced from the Australia Bureau of Statistics (ABS) using the link: https://www.abs.gov.au/statistics/people/population/overseas-migration/2021-22-financial-year#key-statistics 
+The data has been sourced from the Australian Bureau of Statistics (ABS) using the link: https://www.abs.gov.au/statistics/people/population/overseas-migration/2021-22-financial-year#key-statistics 
 The data has been collected based on a financial year. 
+
+The Labour Force Data has been sourced from the Australian Bureau of Statistics (ABS)  using the link:  https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/mar-2023/6202019.xlsx
 
 Information on COVID travel restrictions were sourced using these links: https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/rp/rp2021/Chronologies/COVID-19StateTerritoryGovernmentAnnouncements. [Table 3: initial border restriction announcement by state and territory governments]. 
 
