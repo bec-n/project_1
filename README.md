@@ -2,12 +2,15 @@
 Project 1 Analysis 
 
 PROJECT TITLE
+
 Impact of COVID on Overseas Migration to Australia 
 
 TEAM MEMBERS
+
 Bec, Anuja & Luz 
 
 RESEARCH QUESTION
+
 How has COVID affected migration arrivals to Australia overall pre and post 2020, and specifically for the following factors:
 1.	State / Location;
 2.	Gender;
@@ -19,6 +22,7 @@ How has COVID affected migration arrivals to Australia overall pre and post 2020
 ANALYSIS SUMMARY
 
 Data Analysis - Bec Project1
+
 The graph below shows the total migration arrivals to Australia on a financial year basis.  
 The COVID pandemic had a significant impact on travel and migration to Australia. In response to the pandemic the Australian government imposed travel restrictions in approximately late March 2020, which were gradually eased until no restrictions were in place by March 2023. 
 The graph below shows the total number of migrant arrivals in Australia was the lowest in FY2021 since FY2005. This was the year with the most severe travel restrictions, totalling a -71.2% decrease in total migrant arrivals from the previous year. 
