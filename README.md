@@ -45,10 +45,14 @@ Next, the pie charts below show if there has been any variation on the percentag
 
 ![image](https://user-images.githubusercontent.com/126390405/236680545-28d1ce07-2e94-4e90-b782-49cf07b91e86.png)
 
-
+While there are minor variations between the migration arrivals by state, overall there does not appear to be any change pre and post COVID for the location most migrants are moving to. 
+On the other hand during the COVID year FY2021 there was a significant increase in the percentage of migrants moving to NSW with a corresponding decrease to migrants moving to VIC. This appears to be mainly made up of Australian citizens returning to Australia per the ‘Visa by Region (After COVID’ graph below. All other states appear to be consistent with the pie charts above. 
 
 ![image](https://user-images.githubusercontent.com/126390405/236680552-9eecd626-5284-4a23-a3f6-05b9fa4e8f76.png)
 
+![image](https://user-images.githubusercontent.com/126390405/236778811-dd4e7d1b-5fcb-441a-85f8-6bb4247bc588.png)
+
+As the pie charts above pre and post COVID don’t show a significant variation in location, a map visualisation has been completed below showing the migrant arrivals in FY2022. 
 
 ![bokeh_plot](https://user-images.githubusercontent.com/126390405/236680614-9f730968-6c1a-43a8-b7f9-b783effea4f1.png)
 
